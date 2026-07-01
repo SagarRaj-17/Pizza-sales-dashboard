@@ -43,7 +43,27 @@ The dashboard enables users to monitor business performance, identify best-selli
 - Dynamic Charts
 - Interactive Dashboard
 
+# 🗄 SQL Concepts Used
 
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- CASE Statements
+- CTEs
+- Window Functions
+- Date Functions
+- Joins
+- Subqueries
+
+# 📊 Excel Features Used
+
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- KPI Cards
+- Data Cleaning
+- Interactive Dashboard
 
 #📷 Dashboard Preview
 
